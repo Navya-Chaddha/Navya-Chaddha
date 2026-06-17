@@ -1,18 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Navya%20Chaddha&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Mathematics%20%26%20Computing%20%7C%20Data%20%7C%20Finance%20%7C%20Space&descSize=14&descAlignY=78&descColor=aaaacc" />
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-navya--chaddha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-chaddha-97434521b/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](navya200407.chaddha@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@navyachaddha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/navyachaddha)
-
-</div>
-
-<br/>
 
 ```
 Exploring the world through data, mathematics, and the technology shaping our future.
