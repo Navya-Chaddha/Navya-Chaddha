@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&duration=5500&pause=1800&color=C084FC&center=true&vCenter=true&width=900&height=70&lines=Navya+Chaddha;Data+Explorer;Space+Technology+Enthusiast;Building+with+Mathematics+and+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&duration=5500&pause=1800&color=C084FC&center=true&vCenter=true&width=900&height=70&lines=Navya+Chaddha;Data+Explorer;Space+Technology+Enthusiast;Building+with+Mathematics+and+Code "/>
 
 <p align="center">
 ☕ • 💻 • 📊 • 🧠 • 🚀 • 🛰️ • 🔭 • ✨
